@@ -5,4 +5,9 @@
     <default remote="github" revision="master"/>
 
     <project path="shell/EasierMinicom" name="EasierMinicom"/>
+    <project path="shell/smartbc" name="smartbc"/>
+    <project path="shell/pop-up-task-diary" name="pop-up-task-diary"/>
+    <project path="shell/PathMarker" name="PathMarker"/>
+    <project path="python/convertfb" name="convertfb"/>
+    <project path="rust/cut-trailing-bytes" name="cut-trailing-bytes"/>
 </manifest>
