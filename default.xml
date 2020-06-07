@@ -8,6 +8,8 @@
     <project path="shell/smartbc" name="smartbc"/>
     <project path="shell/pop-up-task-diary" name="pop-up-task-diary"/>
     <project path="shell/PathMarker" name="PathMarker"/>
+    <project path="shell/repo-share-tag" name="repo-share-tag"/>
     <project path="python/convertfb" name="convertfb"/>
+    <project path="python/python_console_calculater" name="python_console_calculater"/>
     <project path="rust/cut-trailing-bytes" name="cut-trailing-bytes"/>
 </manifest>
